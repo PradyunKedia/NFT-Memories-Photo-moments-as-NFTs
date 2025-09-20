@@ -1,0 +1,15 @@
+[package]
+name = "NFTMemories–PhotomomentsasNFTs"
+version = "1.0.0"
+authors = []
+
+[addresses]
+MyModule = "0xd9505e89a1625e9aaed7997402455397f0a9dfef8388a9648c5c0900b2df151b"
+[dev-addresses]
+
+[dependencies.AptosFramework]
+git = "https://github.com/aptos-labs/aptos-framework.git"
+rev = "mainnet"
+subdir = "aptos-framework"
+
+[dev-dependencies]
