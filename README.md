@@ -69,4 +69,4 @@ Our vision is to revolutionize how people preserve and share their precious memo
 
 Contract Transaction ID: 0x45b414f6ee616646245288227149ec21a03427b3f25a29825101cc4d2da2f9d9
 
-![alt text](<Screenshot 2025-09-20 at 6.24.59 PM.png>)
+<img width="3012" height="1728" alt="image" src="https://github.com/user-attachments/assets/993f4d5e-77b6-4834-95fc-496f251a61f1" />
